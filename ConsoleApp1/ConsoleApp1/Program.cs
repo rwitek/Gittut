@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Witaj świecie 123 ");
+            Console.WriteLine("Witaj inny świecie ! ");
         }
     }
 }
